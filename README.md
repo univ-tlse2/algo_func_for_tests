@@ -1,0 +1,1 @@
+# algo_func_for_tests
