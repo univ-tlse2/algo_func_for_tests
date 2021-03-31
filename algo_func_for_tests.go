@@ -1,9 +1,5 @@
 package algo_func_for_tests
 
-import (
-	"fmt"
-)
-
 func Mention(note int8) string {
 	var mention string
 	if note > 16 {
